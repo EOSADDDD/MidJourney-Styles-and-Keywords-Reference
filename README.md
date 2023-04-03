@@ -5,7 +5,7 @@
 </picture>
 <br><br>
 
-<blockquote><h6>DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.</h6></blockquote>
+<blockquote><h6>DISCLAMER: MMD is not officially affiliated with MidJourney. MMD is simply a user/member who enjoys using their service.</h6></blockquote>
 
 <hr><!--------------->
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-  <h3><pre>Styles</pre></h3>
+  <h3><pre>Styles 风格</pre></h3>
 
 <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Rainbow_of_Colors.md">
   <picture>
